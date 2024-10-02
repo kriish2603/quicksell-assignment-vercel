@@ -1,5 +1,7 @@
 # Quicksell Frontend Assignment
 
+The live link of app is https://quicksell-assignment-vercel.vercel.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
